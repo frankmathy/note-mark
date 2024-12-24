@@ -1,10 +1,10 @@
 # note-mark
 
-An Electron application with React and TypeScript
+A MarkDown editor from a Youtube tutorial.
 
-## Recommended IDE Setup
+## Youtube Tutorial
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Tutorial](https://youtu.be/t8ane4BDyC8?si=TIq395ZQf6NW6J4i)
 
 ## Project Setup
 
