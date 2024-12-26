@@ -6,7 +6,7 @@ export type NotePreviewProps = NoteInfo & {
   isActive?: boolean
 } & ComponentProps<'div'>
 
-const NotePreview = ({
+export const NotePreview = ({
   title,
   content,
   lastEditTime,
@@ -32,5 +32,3 @@ const NotePreview = ({
     </div>
   )
 }
-
-export default NotePreview
